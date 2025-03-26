@@ -1,6 +1,6 @@
 # ConversationalAIResearchPaper
 
-| Web Link | Link of PDF | Name |
+| Web Link | Link for PDF | Name |
 |----------|-------------|------|
 | [Link](https://research.ebsco.com/c/qhfvam/search/details/maaexxgunj?limiters=RV%3AY%2CFT%3AY%2CDT1%3A2015-03-26%2F2025-03-26&q=Revolutionizing%20Education%20with%20ChatGPT%3A%20Enhancing%20Learning%20through%20Conversational%20AI) | [PDF](https://eric.ed.gov/?id=ED640538) | Revolutionizing Education with ChatGPT: Enhancing Learning through Conversational AI |
 | [Link](https://research.ebsco.com/c/qhfvam/search/details/hwuo2zsmrb?limiters=RV%3AY%2CFT%3AY%2CDT1%3A2015-03-26%2F2025-03-26&q=Conversational%20AI%20with%20large%20language%20models%20to%20increase%20the%20uptake%20of%20clinical%20guidance) | [PDF](https://www.sciencedirect.com/science/article/pii/S2588914124000145) | Conversational AI with large language models to increase the uptake of clinical guidance |
